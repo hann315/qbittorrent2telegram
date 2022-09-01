@@ -20,6 +20,6 @@
 
 * Modify `TOKEN` and `ID` with your own values. To obtain ID, use [this bot](https://t.me/myidbot)
 
-* Open the qBittorrent settings on web UI, go to Options and add the script path and `"%F""%L" "%N" "%R" "%D" "%Z"` parameters (i.e: [DIR]/qbittorrent2telegram.sh `"%F" "%L" "%N" "%R" "%D" "%Z"`). Otherwise the program won't send the notifications.
+* Open the qBittorrent settings on web UI, go to Options and add the script path and `"%N"` parameter (i.e: [DIR]/qbittorrent2telegram.sh `"%N"`). Otherwise, the program won't send the notifications and mess up the text.
 
-![image](https://i.imgur.com/vwarSsO.png)
+![image](https://i.imgur.com/XsAta4s.png)
