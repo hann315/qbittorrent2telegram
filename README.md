@@ -1,5 +1,6 @@
 # Bash script that sends a message to the telegram bot after the qBittorrent finishes downloading a torrent.
-## It's more better than flooding your inbox.
+
+### It's more better than flooding your inbox.
 
 #### Inspired by [ricardotx](https://github.com/ricardotx/qbittorrent_telegram_notification) and [dideler](https://gist.github.com/dideler/85de4d64f66c1966788c1b2304b9caf1)
 
