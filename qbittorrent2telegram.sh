@@ -13,5 +13,4 @@ curl -S -X POST $URL \
         -d chat_id=$ID \
         -d parse_mode=Markdown \
         -d disable_web_page_preview=true \
-        -d text="*$1 has finished downloading*%0A%0ATorrent name: $1%0ASize: $CONVERT%0ASave path: $3%0A%0AThanks for using qBittorrent and [this program](https://github.com/hann315/qbittorrent2telegram)."
-        
+        -d text="*$1 has finished downloading*%0A%0ATorrent name: $1%0ASize: $CONVERT%0ASave path: $3%0A%0AThanks for using qBittorrent and [this program](https://github.com/hann315/qbittorrent2telegram)"
